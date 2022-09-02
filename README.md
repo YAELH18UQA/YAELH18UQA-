@@ -7,7 +7,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://fb .com/Yael Hernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/facebook.svg" alt="yael hernández" height="30" width="40" /></a>
+<a href="https://fb .com/Yael Hernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/facebook.svg" alt="Yael Hernández" height="30" width="40" /></a>
 <a href="https://instagram.com/heydan_aventurero_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="heydan_aventurero_" height="30" width="40" /></a>
 </p>
 
